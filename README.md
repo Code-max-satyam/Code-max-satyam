@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGz-80thzc/Ban6fxGznkYDuLWs8vFxZQ/watch?utm_content=DAGz-80thzc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h054af6e094)]
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
 <h3 align="center">A passionate frontend developer || software developer|| from India</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRlZDZ0aDFiM2NkYXRrM3VycXFwdGN5NTh4cGZ4aXR1cHB3cHFmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300px" align="right" alt="">
