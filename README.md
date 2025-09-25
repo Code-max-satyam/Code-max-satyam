@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/satyam-singh-3505b425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyam-singh-3505b425b" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1CtzPA1Kn7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1CtzPA1Kn7/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_satyaamm.notfound_?igsh=MTF1dXNuODFlbHZ2eg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_satyaamm.notfound_?igsh=MTF1dXNuODFlbHZ2eg==" height="30" width="40" /></a>
+  <a href="mailto:satyam10april02@gmail.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="40"  alt="gmail logo" /></a>
 </p>
 
 <!-- Snake Game Repo View -->
@@ -40,8 +41,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-max-satyam&show_icons=true&locale=en&layout=compact" alt="code-max-satyam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-max-satyam&show_icons=true&locale=en" alt="code-max-satyam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-max-satyam&" alt="code-max-satyam" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-max-satyam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Code-max-satyam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+###
