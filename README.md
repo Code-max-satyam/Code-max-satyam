@@ -9,13 +9,13 @@
 
 - 📚 Check out my projects on [project & work](https://github.com/Code-max-satyam)
 
-- 👨‍💻 All of my projects are available at [https://animated-portfolio-website-gold.vercel.app/](https://animated-portfolio-website-gold.vercel.app/)
+- 👨‍💻 All of my projects are available at [Protfolio Website](https://animated-portfolio-website-gold.vercel.app/)
 
-- 💬 Ask me about **HTML,CSS, JavaScript, React.js**
+- 💬 Ask me about **HTML,CSS, JavaScript, React.js, and sql**
 
 - 📫 How to reach me **satyam10april02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mas8XgE1YtZB19stUz9BDYESW7j1CXTI/view](https://drive.google.com/file/d/1Mas8XgE1YtZB19stUz9BDYESW7j1CXTI/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Mas8XgE1YtZB19stUz9BDYESW7j1CXTI/view)
 
 - ⚡ Fun fact **I am funny**
 
