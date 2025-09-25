@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently learning on **Web Development, Database Development**
 
-- 🌱 I’m currently learning **Node.js React.js**
-
-- 📚 Check out my projects on [https://github.com/Code-max-satyam](https://github.com/Code-max-satyam)
+- 📚 Check out my projects on [project & work](https://github.com/Code-max-satyam)
 
 - 👨‍💻 All of my projects are available at [https://animated-portfolio-website-gold.vercel.app/](https://animated-portfolio-website-gold.vercel.app/)
 
