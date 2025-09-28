@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-max-satyam&label=Profile%20views&color=0e75b6&style=flat" alt="code-max-satyam" /> </p>
 
-- 🔭 I’m currently learning on **Web Development, Database Development**
+- 🔭 I’m currently learning on **Web Development, Database Development, n8n**
 
 - 📚 Check out my projects on [project & work](https://github.com/Code-max-satyam)
 
